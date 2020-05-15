@@ -1,0 +1,3 @@
+[submodule "sts-client-19"]
+	path = sts-client-19
+	url = git@github.com:jkennaly/sts-client-19.git
